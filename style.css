@@ -1,0 +1,19 @@
+body{
+    background-color:blueviolet ;
+}
+.h1{
+    color: darkgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.p{    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.button{
+    margin: 5%;
+    padding: 2%;
+    border-color: brown;
+    background-color: blueviolet;
+}
+    
